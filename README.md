@@ -1,4 +1,4 @@
-# CoffeeSales_DEA
+# CoffeeSales_EDA
 In this data exploration, we found insights on a Ukranian coffee vending machine with 3636 entries. 
 After cleaning out our data these are our insights:
 Most Purchased Coffee Type:
