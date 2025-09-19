@@ -16,4 +16,4 @@ Customer Payment Preferences:
 92% paid by card
 8% paid in cash
 
-      DEA by : Lilee Yang and Kim De Vries
+      EDA by : Lilee Yang and Kim De Vries
